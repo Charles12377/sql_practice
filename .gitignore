@@ -1,4 +1,8 @@
-*.pdf
 .DS_Store
+Thumbs.db
+*.log
+*.tmp
+.vscode/
+.idea/
 .venv/
 __pycache__/
